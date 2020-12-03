@@ -9,8 +9,6 @@ Following are rules for the game:
 2) You will get 4 points for every right answer.
 3) For each wrong answer 1 point will be deducted from score.
 
-# Code Link -
-https://repl.it/@ranjitm10/GangofWasseypur-Quiz#index.js
 
 # You can play the quiz game by visiting below link -
 https://repl.it/@ranjitm10/GangofWasseypur-Quiz?embed=1&output=1
